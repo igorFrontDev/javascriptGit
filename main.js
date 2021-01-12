@@ -34,6 +34,8 @@
 
 let iElement = document.createElement("i");
 
+
+
 let inputValue = document.getElementById('task');
 
 let addTaskBtn = document.querySelector('.addTaskBtn')
